@@ -157,5 +157,4 @@ for i=1:256
         mapD(i,3)=M(i);
     end    
 end
-
 imwrite(Anew, mapD, 'Q5.bmp');
