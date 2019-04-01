@@ -1,7 +1,6 @@
 clear all
 close all
 clc
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 1.
 [A mapA] = imread('windmill.bmp');
